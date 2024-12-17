@@ -80,6 +80,5 @@ final class RMTabBarController: UITabBarController {
         self.tabBar.layer.borderWidth = 0.17
         setInductor(index: selectedIndex, tabBarController: self)
     }
-    
 }
 
